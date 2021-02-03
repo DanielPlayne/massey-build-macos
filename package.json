@@ -1,7 +1,7 @@
 {
   "name": "massey-build-macos",
   "main": "./lib/massey-build-macos",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Massey Plugin",
   "keywords": [
     "Massey",
