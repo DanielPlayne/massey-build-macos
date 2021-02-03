@@ -1,14 +1,14 @@
 {
-  "name": "massey-build-macOS",
-  "main": "./lib/massey-build-macOS",
+  "name": "massey-build-macos",
+  "main": "./lib/massey-build-macos",
   "version": "0.1.0",
   "description": "Massey Plugin",
   "keywords": [
     "Massey",
     "macOS"
   ],
-  "repository": "https://github.com/DanielPlayne/massey-build-macOS",
-  "homepage": "https://github.com/DanielPlayne/massey-build-macOS#readme",
+  "repository": "https://github.com/DanielPlayne/massey-build-macos",
+  "homepage": "https://github.com/DanielPlayne/massey-build-macos#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
