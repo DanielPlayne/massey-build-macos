@@ -1,0 +1,36 @@
+{
+  "name": "massey-build-macOS",
+  "main": "./lib/massey-build-macOS",
+  "version": "0.0.1",
+  "description": "Massey Plugin",
+  "keywords": [
+    "Massey",
+    "macOS"    
+  ],
+  "repository": "https://github.com/DanielPlayne/massey-build-macOS",
+  "homepage": "https://github.com/DanielPlayne/massey-build-macOS#readme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^4.5.0",
+    "atom-space-pen-views": "^2.0.3"
+  },
+  "package-deps": [
+    "tool-bar",
+    "flex-tool-bar",
+    "intentions",
+    "busy-signal",
+    "linter",
+    "linter-ui-default",
+    "linter-clang"
+  ],
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
+  }
+}

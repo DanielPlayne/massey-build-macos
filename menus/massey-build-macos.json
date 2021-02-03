@@ -1,0 +1,37 @@
+{
+    "context-menu" : {
+        "atom-text-editor": [
+            {
+                "label": "Build",
+                "command": "massey-build-macos:build"
+            },
+            {
+                "label": "Rebuild",
+                "command": "massey-build-macos:rebuild"
+            },
+            {
+                "label": "Run",
+                "command": "massey-build-macos:run"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Massey-Build",
+            "submenu": [
+                {
+                    "label": "Build",
+                    "command": "massey-build-macos:build"
+                },
+                {
+                    "label": "Rebuild",
+                    "command": "massey-build-macos:rebuild"
+                },
+                {
+                    "label": "Run",
+                    "command": "massey-build-macos:run"
+                }
+            ]
+        }
+    ]
+}
