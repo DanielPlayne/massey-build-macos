@@ -1,11 +1,11 @@
 {
   "name": "massey-build-macOS",
   "main": "./lib/massey-build-macOS",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Massey Plugin",
   "keywords": [
     "Massey",
-    "macOS"    
+    "macOS"
   ],
   "repository": "https://github.com/DanielPlayne/massey-build-macOS",
   "homepage": "https://github.com/DanielPlayne/massey-build-macOS#readme",
