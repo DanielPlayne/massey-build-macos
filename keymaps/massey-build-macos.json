@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "cmd-b": "massey-build:build",
-    "cmd-r": "massey-build:run"
+    "ctrl-b": "massey-build-macos:build",
+    "ctrl-r": "massey-build-macos:run"
   }
 }
